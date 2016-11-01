@@ -39,6 +39,9 @@
   - [Trivia 2](http://trivia.fyi/)
   - [Trivia 3](http://www.triviacafe.com/categorytrivia/)
   - [UK knowledge](http://pubquizquestionshq.com/categories/general-knowledge)
+- Dev process
+  - [Info 1](https://css-tricks.com/app-from-scratch-1-design/)
+  - [Info 2](https://developer.tizen.org/development/getting-started/web-application/application-development-process)
 
 ---
 
@@ -69,3 +72,23 @@
   - Dbl Jeopardy
   - Final Jeopardy
 - harcoded questions first? then build scraper/api?
+
+
+---
+
+### App
+
+Goals:
+- replicate a game of Jeopardy, where:
+  - users can select a question from the board
+  - users can tap a prompt key to answer the questions
+  - users can input their answers
+  - users have a scoreboard
+  - users are timed per answer
+
+Plan:
+- languages: JS/HTML/CSS
+  - jQuery
+  - Bootstrap
+- timeline: 3 weeks
+- wireframe
